@@ -11,3 +11,6 @@ The descriptions of each project code are below:
    
 2) uvc-yuyv-opencv
    The project has managed to gets yuyv frames and turn it to gray frame via opencv.
+   
+3) uvc-mjpg-opencv
+   The project has managed to gets mjpg frames and turn it to cv::Mat.
